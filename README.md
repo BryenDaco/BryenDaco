@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mihirath Hasaranga Amarasinghe
+# 👋 Hi, I'm Bryen Daco
 
-### 🎯 Backend Software & Web Developer | ICT NVQ 4 Certified
+### 🎯 Backend Software & Web Developer
 
 I'm a passionate backend-focused software developer with a strong foundation in web technologies, programming principles, and software development best practices. I enjoy building efficient, scalable solutions and constantly expanding my skill set through hands-on projects and online learning.
 
@@ -9,16 +9,14 @@ I'm a passionate backend-focused software developer with a strong foundation in 
 ## 💻 Tech Stack & Skills
 
 **Languages & Frameworks**
-- 🔹 JavaScript, Python, Java, PHP, C#
+- 🔹 JavaScript, Java
 - 🔹 HTML5, CSS3, SQL
-- 🔹 Node.js, Laravel, Firebase, jQuery
+- 🔹 Node.js
 
 **Tools & Technologies**
-- 🔸 Git & GitHub
-- 🔸 MySQL, MongoDB
-- 🔸 REST APIs
+- 🔸 MySQL
 - 🔸 Adobe Photoshop (Basic Graphic Design)
-- 🔸 Visual Studio Code, IntelliJ, NetBeans
+- 🔸 Visual Studio Code, NetBeans
 
 ---
 
@@ -34,7 +32,7 @@ I'm a passionate backend-focused software developer with a strong foundation in 
 
 **Arduino & Online Learning Platforms**
 - Arduino CodeCamp Workshop – 2021 (IIT)
-- Multiple courses from Udemy on:
+- Multiple courses from [Udemy](https://udemy.com) on:
   - Android Machine Learning (Java/Kotlin)
   - Web Development (HTML, CSS, JavaScript, jQuery)
   - Python 3 (Beginner to Advanced)
@@ -46,7 +44,7 @@ I'm a passionate backend-focused software developer with a strong foundation in 
 
 ## 💼 Experience
 
-**Adventa Holdings Pvt Ltd**  
+**[Adventa Holdings Pvt Ltd](https://www.adventa.com.au/)**  
 *Software Engineering Intern (Apr 2023 – Oct 2023)*  
 - Completed 6-month internship under ICT NVQ 4 training  
 - Gained practical exposure to backend development and real-world project workflows
@@ -62,10 +60,8 @@ I'm a passionate backend-focused software developer with a strong foundation in 
 
 ## 📫 Contact Me
 
-- 📧 Email: mihirathhasaranga2003@gmail.com  
-- 📱 Phone: +94 768 283 237  
-- 🌍 Location: Homagama, Colombo District, Sri Lanka  
-- 📅 DOB: 18th August 2003  
+- 📧 Email: [bryendaco@gmail.com](mailto:bryendaco@gmail.com)  
+- 📱 Phone: [+94 768 283 237](https://wa.me/94786283237)
 
 ---
 
